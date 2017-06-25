@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on MicroBlog</title>
+    <link>https://electro-funk.github.io/jimmy/tags/</link>
+    <description>Recent content in Tags on MicroBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 17 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://electro-funk.github.io/jimmy/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>After Steroids</title>
+      <link>https://electro-funk.github.io/jimmy/tags/after-steroids/</link>
+      <pubDate>Sat, 17 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://electro-funk.github.io/jimmy/tags/after-steroids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basics</title>
+      <link>https://electro-funk.github.io/jimmy/tags/basics/</link>
+      <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://electro-funk.github.io/jimmy/tags/basics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juice</title>
+      <link>https://electro-funk.github.io/jimmy/tags/juice/</link>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://electro-funk.github.io/jimmy/tags/juice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nd</title>
+      <link>https://electro-funk.github.io/jimmy/tags/nd/</link>
+      <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://electro-funk.github.io/jimmy/tags/nd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Norisk</title>
+      <link>https://electro-funk.github.io/jimmy/tags/norisk/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://electro-funk.github.io/jimmy/tags/norisk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Npp</title>
+      <link>https://electro-funk.github.io/jimmy/tags/npp/</link>
+      <pubDate>Sun, 18 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://electro-funk.github.io/jimmy/tags/npp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stackers</title>
+      <link>https://electro-funk.github.io/jimmy/tags/stackers/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://electro-funk.github.io/jimmy/tags/stackers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
